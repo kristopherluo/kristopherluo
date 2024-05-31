@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kristopher Luo
 ======================================================================================================================================
 
-I am a senior pursuing a Bachelor of Science in Computer Science with a minor in Business Management at Clemson University. I have always had a passion for technology, thus my interest in computer science. I specifically enjoy and have experience in machine learning and data analysis work, along with front-end development. Throughout school, work, and personal projects, I have used languages, such as Python, C++, C, Java, and Javascript. I am eager to learn even more about software development, implement feedback, and work with a collaborative team.
+I am a software engineer at Epic, located in Madison, Wisconsin. I have always had a passion for technology, thus my interest in computer science. I specifically enjoy and have experience in machine learning and data analysis work, along with front-end development. Throughout school, work, and personal projects, I have used languages, such as Python, C#, C++, C, Java, Javascript, TypeScript. I am eager to learn even more about software development, implement feedback, and work with a collaborative team.
 
-* 🌍  I'm based in Clemson, SC
-* 🖥️  See my portfolio at [MyPortfolio](http://kristopherluo.vercel.app/)
-* ✉️  You can contact me at [kluo@clemson.edu](mailto:kluo@clemson.edu)
+* 🌍  I'm based in Madison, WI
+* 🖥️  See my portfolio at [MyPortfolio](http://kristopherluo.com/)
+* ✉️  You can contact me at [kluo618@gmail.com](mailto:kluo618@gmail.com)
 * 🧠  I'm learning more about cloud computing and cybersecurity
 
 ### Skills
